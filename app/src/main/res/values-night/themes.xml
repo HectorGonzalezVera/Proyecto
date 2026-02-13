@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.DAMAppMoodle" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#90CAF9</item>
+        <item name="colorOnPrimary">#000000</item>
+
+        <item name="colorSecondary">#42A5F5</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <item name="android:statusBarColor">#000000</item>
+
+    </style>
+
+    <style name="Theme.DAMAppMoodle" parent="Base.Theme.DAMAppMoodle" />
+
+</resources>
